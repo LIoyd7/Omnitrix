@@ -8,18 +8,18 @@
                 "Drivers/STM32F4xx_HAL_Driver/Inc",
                 "Drivers/CMSIS/Device/ST/STM32F4xx/Include",
                 "Drivers/CMSIS/Include",
-                //"Middlewares/Third_Party/FreeRTOS/Source/include",
-                "Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
-                //"Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2",
-                //"Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F",
-                //"User"
+                "Middlewares/Third_Party/FreeRTOS/Source/include",
+                "Drivers/STM32F4xx_HAL_Driver/Inc/Legacy",
+                "Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2",
+                "Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F",
+                "User"
+
             ],
             "defines": [
-                "STM32F411xx",
+                "STM32F411xE", // 和 HAL 一致
                 "_DEBUG",
-                "UNICODE",
                 "USE_HAL_DRIVER",
-                "__GNUC__"// 解决编辑器中提示无法识别uint32_t, uint16_t, uint8_t的问题
+                "__GNUC__"
             ],
             "compilerPath": "arm-none-eabi-gcc",
             "compilerArgs": [

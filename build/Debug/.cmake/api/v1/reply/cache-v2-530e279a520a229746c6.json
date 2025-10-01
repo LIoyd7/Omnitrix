@@ -1102,7 +1102,7 @@
 					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "UNINITIALIZED",
+			"type" : "FILEPATH",
 			"value" : "/home/tree/Omnitrix/cmake/gcc-arm-none-eabi.cmake"
 		},
 		{

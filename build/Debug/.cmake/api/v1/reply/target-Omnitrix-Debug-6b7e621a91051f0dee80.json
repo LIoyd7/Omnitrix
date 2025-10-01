@@ -238,7 +238,11 @@
 				45,
 				46,
 				47,
-				48
+				48,
+				49,
+				50,
+				51,
+				52
 			]
 		},
 		{
@@ -349,7 +353,7 @@
 			"language" : "ASM",
 			"sourceIndexes" : 
 			[
-				49
+				53
 			]
 		}
 	],
@@ -465,14 +469,18 @@
 				45,
 				46,
 				47,
-				48
+				48,
+				49,
+				50,
+				51,
+				52
 			]
 		},
 		{
 			"name" : "",
 			"sourceIndexes" : 
 			[
-				49
+				53
 			]
 		}
 	],
@@ -560,6 +568,30 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Core/Src/usart.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "User/bsp/bsp_delay.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "User/bsp/bsp_iic.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "User/device/BL24C02.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "User/device/DataSave.c",
 			"sourceGroupIndex" : 0
 		},
 		{

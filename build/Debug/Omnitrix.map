@@ -1455,6 +1455,544 @@ Discarded input sections
  .debug_macro   0x00000000      0x2aa CMakeFiles/Omnitrix.dir/Core/Src/usart.c.obj
  .debug_macro   0x00000000      0x126 CMakeFiles/Omnitrix.dir/Core/Src/usart.c.obj
  .debug_macro   0x00000000       0x1c CMakeFiles/Omnitrix.dir/Core/Src/usart.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .text.delay_init
+                0x00000000       0x34 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .text.delay_us
+                0x00000000       0x40 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .text.delay_ms
+                0x00000000       0x40 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .bss.fac_ms    0x00000000        0x4 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .bss.fac_us    0x00000000        0x1 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_info    0x00000000      0x256 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_abbrev  0x00000000      0x112 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_loclists
+                0x00000000      0x16c CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_aranges
+                0x00000000       0x30 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_rnglists
+                0x00000000       0x1f CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x23f CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0xad8 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000       0x2e CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000       0x28 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000       0xfb CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000     0x1011 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x11f CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000     0xb968 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000       0x6d CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x2ad CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000     0x3693 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x190 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000       0x5c CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x45c CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x9e9 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x115 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x11b CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000       0xa5 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x15f CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x287 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000       0x5f CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x236 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x9e1 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x38b CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x17d CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000       0xf9 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x132 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x264 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000       0x2e CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x127 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000       0x85 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000       0x89 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x305 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x429 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000       0xeb CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x225 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x8ed CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000       0x47 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x2aa CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000      0x126 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_line    0x00000000      0x76b CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_str     0x00000000    0x996c7 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .comment       0x00000000       0x3a CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .debug_frame   0x00000000       0x58 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .text.SDA_Input_Mode
+                0x00000000       0x2a CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .text.SDA_Output_Mode
+                0x00000000       0x2a CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .text.SDA_Output
+                0x00000000       0x18 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .text.SCL_Output
+                0x00000000       0x18 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .text.SDA_Input
+                0x00000000       0x12 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .text.IICStart
+                0x00000000       0x3c CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .text.IICStop  0x00000000       0x3c CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .text.IICWaitAck
+                0x00000000       0x52 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .text.IICSendAck
+                0x00000000       0x2e CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .text.IICSendNotAck
+                0x00000000       0x2e CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .text.IICSendByte
+                0x00000000       0x5a CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .text.IICReceiveByte
+                0x00000000       0x54 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .text.IIC_Write_One_Byte
+                0x00000000       0x5a CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .text.IIC_Write_Multi_Byte
+                0x00000000       0x6e CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .text.IIC_Read_One_Byte
+                0x00000000       0x5a CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .text.IIC_Read_Multi_Byte
+                0x00000000       0x8c CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_info    0x00000000      0xf37 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_abbrev  0x00000000      0x29b CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_loclists
+                0x00000000      0x3c5 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_aranges
+                0x00000000       0x98 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_rnglists
+                0x00000000       0x6e CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x240 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0xad8 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000       0x2e CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000       0x28 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000       0xfb CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000     0x1011 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x11f CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000     0xb968 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000       0x6d CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x2ad CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000     0x3693 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x190 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000       0x5c CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x45c CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x9e9 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x115 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x11b CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000       0xa5 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x15f CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x287 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000       0x5f CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x236 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x9e1 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x38b CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x17d CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000       0xf9 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x132 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x264 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000       0x2e CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x127 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000       0x85 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000       0x89 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x305 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x429 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000       0xeb CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x225 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x8ed CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000       0x47 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x2aa CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000      0x126 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_line    0x00000000      0xa3f CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_str     0x00000000    0x99818 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .comment       0x00000000       0x3a CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .debug_frame   0x00000000      0x1b8 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .text.BL24C02_Write
+                0x00000000       0x1c CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .text.BL24C02_Read
+                0x00000000       0x1c CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .text.BL24C02_Init
+                0x00000000       0x30 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .data.BL_bus   0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_info    0x00000000      0x537 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_abbrev  0x00000000      0x188 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_loclists
+                0x00000000       0xe6 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_aranges
+                0x00000000       0x30 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_rnglists
+                0x00000000       0x1f CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x256 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0xad8 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x2ad CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000       0x2e CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000       0x28 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000       0xfb CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000     0x1011 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x11f CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000     0xb968 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000       0x6d CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000     0x3693 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x190 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000       0x5c CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x45c CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x9e9 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x115 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x11b CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000       0xa5 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x15f CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x287 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000       0x5f CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x236 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x9e1 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x38b CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x17d CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000       0xf9 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x132 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x264 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000       0x2e CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x127 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000       0x85 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000       0x89 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x305 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x429 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000       0xeb CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x225 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x8ed CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000       0x47 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x2aa CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000      0x126 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_line    0x00000000      0x6cf CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_str     0x00000000    0x9983c CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .comment       0x00000000       0x3a CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .debug_frame   0x00000000       0x64 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .text.EEPROM_Init
+                0x00000000        0x8 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .text.EEPROM_Check
+                0x00000000       0x7a CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .text.SettingSave
+                0x00000000       0x30 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .text.SettingGet
+                0x00000000       0x30 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_info    0x00000000      0x321 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_abbrev  0x00000000      0x13c CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_loclists
+                0x00000000      0x132 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_aranges
+                0x00000000       0x38 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_rnglists
+                0x00000000       0x25 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x314 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0xad8 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x2ad CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x2e CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x28 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0xfb CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000     0x1011 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x11f CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000     0xb968 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x6d CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000     0x3693 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x190 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x5c CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x45c CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x9e9 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x115 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x11b CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0xa5 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x15f CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x287 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x5f CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x236 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x9e1 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x38b CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x17d CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0xf9 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x132 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x264 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x2e CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x127 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x85 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x89 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x305 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x429 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0xeb CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x225 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x8ed CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x47 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x2aa CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x126 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x7b CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x2a CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x3c CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x364 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x4a CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x58 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000      0x1e5 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_macro   0x00000000       0x3c CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_line    0x00000000      0x821 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_str     0x00000000    0x9c1eb CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .comment       0x00000000       0x3a CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .debug_frame   0x00000000       0x8c CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
  .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/task/initTask.c.obj
  .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/task/initTask.c.obj
  .group         0x00000000        0xc CMakeFiles/Omnitrix.dir/User/task/initTask.c.obj
@@ -5074,6 +5612,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x10 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
  .debug_macro   0x00000000       0x58 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
  .debug_macro   0x00000000      0x1e5 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
  .debug_macro   0x00000000       0x3c CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
  .debug_macro   0x00000000       0x10 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
  .debug_macro   0x00000000      0x103 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
@@ -6287,6 +6826,10 @@ LOAD CMakeFiles/Omnitrix.dir/Core/Src/sysmem.c.obj
 LOAD CMakeFiles/Omnitrix.dir/Core/Src/system_stm32f4xx.c.obj
 LOAD CMakeFiles/Omnitrix.dir/Core/Src/tim.c.obj
 LOAD CMakeFiles/Omnitrix.dir/Core/Src/usart.c.obj
+LOAD CMakeFiles/Omnitrix.dir/User/bsp/bsp_delay.c.obj
+LOAD CMakeFiles/Omnitrix.dir/User/bsp/bsp_iic.c.obj
+LOAD CMakeFiles/Omnitrix.dir/User/device/BL24C02.c.obj
+LOAD CMakeFiles/Omnitrix.dir/User/device/DataSave.c.obj
 LOAD CMakeFiles/Omnitrix.dir/User/task/initTask.c.obj
 LOAD CMakeFiles/Omnitrix.dir/User/task/ledTask.c.obj
 LOAD CMakeFiles/Omnitrix.dir/User/task/userTask.c.obj
@@ -8147,7 +8690,7 @@ LOAD linker stubs
  .debug_rnglists
                 0x0000150b       0x19 CMakeFiles/Omnitrix.dir/startup_stm32f411xe.s.obj
 
-.debug_macro    0x00000000    0x1d3e0
+.debug_macro    0x00000000    0x1d3d0
  .debug_macro   0x00000000      0x232 CMakeFiles/Omnitrix.dir/Core/Src/adc.c.obj
  .debug_macro   0x00000232      0xad8 CMakeFiles/Omnitrix.dir/Core/Src/adc.c.obj
  .debug_macro   0x00000d0a      0x2ad CMakeFiles/Omnitrix.dir/Core/Src/adc.c.obj
@@ -8285,25 +8828,24 @@ LOAD linker stubs
  .debug_macro   0x0001b9bc      0x219 CMakeFiles/Omnitrix.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
  .debug_macro   0x0001bbd5      0x21a CMakeFiles/Omnitrix.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
  .debug_macro   0x0001bdef      0x3fc CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
- .debug_macro   0x0001c1eb       0x10 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
- .debug_macro   0x0001c1fb       0x91 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
- .debug_macro   0x0001c28c       0x8d CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
- .debug_macro   0x0001c319       0x9a CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
- .debug_macro   0x0001c3b3       0x22 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
- .debug_macro   0x0001c3d5       0x56 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
- .debug_macro   0x0001c42b      0x1d3 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj
- .debug_macro   0x0001c5fe      0x11c CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj
- .debug_macro   0x0001c71a       0x9b CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj
- .debug_macro   0x0001c7b5      0x178 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj
- .debug_macro   0x0001c92d      0x196 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj
- .debug_macro   0x0001cac3      0x19f CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
- .debug_macro   0x0001cc62      0x202 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
- .debug_macro   0x0001ce64       0x16 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
- .debug_macro   0x0001ce7a       0x87 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
- .debug_macro   0x0001cf01      0x26b CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj
- .debug_macro   0x0001d16c       0x10 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj
- .debug_macro   0x0001d17c      0x1cd CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj
- .debug_macro   0x0001d349       0x97 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj
+ .debug_macro   0x0001c1eb       0x91 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
+ .debug_macro   0x0001c27c       0x8d CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
+ .debug_macro   0x0001c309       0x9a CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
+ .debug_macro   0x0001c3a3       0x22 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
+ .debug_macro   0x0001c3c5       0x56 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
+ .debug_macro   0x0001c41b      0x1d3 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj
+ .debug_macro   0x0001c5ee      0x11c CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj
+ .debug_macro   0x0001c70a       0x9b CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj
+ .debug_macro   0x0001c7a5      0x178 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj
+ .debug_macro   0x0001c91d      0x196 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj
+ .debug_macro   0x0001cab3      0x19f CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ .debug_macro   0x0001cc52      0x202 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
+ .debug_macro   0x0001ce54       0x16 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
+ .debug_macro   0x0001ce6a       0x87 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
+ .debug_macro   0x0001cef1      0x26b CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj
+ .debug_macro   0x0001d15c       0x10 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj
+ .debug_macro   0x0001d16c      0x1cd CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj
+ .debug_macro   0x0001d339       0x97 CMakeFiles/Omnitrix.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj
 
 .debug_line     0x00000000    0x26263
  .debug_line    0x00000000      0x7d4 CMakeFiles/Omnitrix.dir/Core/Src/adc.c.obj
