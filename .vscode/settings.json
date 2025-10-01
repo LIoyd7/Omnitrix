@@ -1,0 +1,72 @@
+//UI和功能设置脚本
+{
+    // 字符集编码格式
+    "files.encoding": "utf8",
+    // 启用文件自动保存
+    "files.autoSave": "afterDelay",
+    // 项目各文件的图标主题
+    "workbench.iconTheme": "material-icon-theme",
+    // 吸血鬼主题
+    "workbench.colorTheme": "One Dark Pro",
+    //粘贴时格式化代码
+    "editor.formatOnPaste": true,
+    //保存时格式化代码
+    "editor.formatOnSave": true,
+    //设置字体的大小，最小值能设置为6
+    "editor.fontSize": 16,
+    //设置字体的粗细
+    "editor.fontWeight": "500",
+    //设置字体的样式
+    // "terminal.integrated.fontFamily":"Courier New",
+    //使用Ctrl+滚轮缩放编辑区的字体大小
+    "editor.mouseWheelZoom": true,
+    //使用Ctrl+滚轮缩放终端Terminal的字体大小
+    "terminal.integrated.mouseWheelZoom": true,
+    //设置为false，这样打开新的文件时，不会自动关闭旧的文件
+    "workbench.editor.enablePreview": false,
+    "security.workspace.trust.enabled": false,
+    "VsCodeTaskButtons.showCounter": true,
+    "VsCodeTaskButtons.tasks": [
+        {
+            "label": "$(tools) Build",
+            "task": "build",
+            "tooltip": "🛠️ build"
+        },
+        {
+            "label": "$(notebook-delete-cell) Clean",
+            "task": "clean",
+            "tooltip": "🧹 clean"
+        },
+        {
+            "label": "$(notebook-delete-cell) $(tools) Re-bulid", //"$(notebook-delete-cell) & $(tools)",
+            "task": "rebuild",
+            "tooltip": "🛠️ rebuild" // "🧹 & 🛠️ rebuild"
+        },
+        {
+            "label": "$(zap) Download",
+            // "task": "flash",
+            "tasks": [
+                {
+                    "label": "⚓ CMSIS-DAP-Link", //icon copied from https://emojipedia.org/
+                    "task": "flash with CMSIS-DAP-Link"
+                },
+                {
+                    "label": "⤵️ ST-Link", //icon copied from https://emojipedia.org/
+                    "task": "flash with ST-Link"
+                },
+                {
+                    "label": "🚀 J-Link", //icon copied from https://emojipedia.org/
+                    "task": "flash with J-Link"
+                }
+            ],
+            "tooltip": "⚡ Download"
+        }
+    ],
+    //这2行配置很重要！！！在tasks.json中的任务类型如果是"shell"，则这里的shell选择，关系到对应shell命令的使用适配与否。
+    "terminal.explorerKind": "integrated",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "files.associations": {
+        "topdefine.h": "c",
+        "freertos.h": "c"
+    }, //You can also choose from the following three shells："Command Prompt" or "PowerShell" or "Windows PowerShell" or "Git Bash"
+}

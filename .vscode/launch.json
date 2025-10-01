@@ -1,0 +1,72 @@
+{
+    "configurations": [
+        {
+            "name": "Debug with CMSIS-DAP-link",
+            "cwd": "${workspaceFolder}",
+            "executable": "${workspaceFolder}/build/Debug/Omnitrix.elf",
+            "request": "launch",
+            "type": "cortex-debug",
+            "servertype": "openocd",
+            "device": "STM32F411CEUx",
+            "configFiles": [
+                "interface/cmsis-dap.cfg",
+                "target/stm32f4x.cfg"
+            ],
+            "svdFile": "${workspaceFolder}/STM32F411.svd",
+            "liveWatch": {
+                "enabled": true,
+                "samplesPerSecond": 4
+            },
+            "searchDir": [],
+            "runToEntryPoint": "main",
+            "showDevDebugOutput": "none",
+            "preLaunchTask": "flash with cmsis-dap-link"
+        },
+        {
+            "name": "Debug with ST-link",
+            "cwd": "${workspaceFolder}",
+            "executable": "${workspaceFolder}/build/Debug/Omnitrix.elf",
+            "request": "launch",
+            "type": "cortex-debug",
+            "servertype": "openocd",
+            "device": "STM32F411CEUx",
+            "configFiles": [
+                "interface/stlink.cfg",
+                "target/stm32f4x.cfg"
+            ],
+            "svdFile": "${workspaceFolder}/STM32F411.svd",
+            "liveWatch": {
+                "enabled": true,
+                "samplesPerSecond": 4
+            },
+            "searchDir": [],
+            "runToEntryPoint": "main",
+            "showDevDebugOutput": "none",
+            "preLaunchTask": "flash with ST-link"
+        },
+        {
+            "name": "Debug with J-link",
+            "cwd": "${workspaceFolder}",
+            "executable": "${workspaceFolder}/build/Debug/Omnitrix.elf",
+            "request": "launch",
+            "type": "cortex-debug",
+            "servertype": "openocd",
+            "device": "STM32F411CEUx",
+            "configFiles": [
+                "interface/jlink-swd.cfg",
+                "target/stm32f4x.cfg"
+            ],
+            "interface": "swd",
+            "svdFile": "${workspaceFolder}/STM32F411.svd",
+            "liveWatch": {
+                "enabled": true,
+                "samplesPerSecond": 4
+            },
+            "runToEntryPoint": "main",
+            "showDevDebugTimestamps": true,
+            "showDevDebugOutput": "none",
+            "preLaunchTask": "flash with J-link"
+        }
+    ],
+    "version": "2.0.0"
+}

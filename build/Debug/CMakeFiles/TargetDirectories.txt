@@ -1,0 +1,3 @@
+/home/tree/Omnitrix/build/Debug/CMakeFiles/Omnitrix.dir
+/home/tree/Omnitrix/build/Debug/CMakeFiles/edit_cache.dir
+/home/tree/Omnitrix/build/Debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,99 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build",
+            "type": "shell",
+            "command": "cmake --preset=Debug && cmake --build build/Debug --target all",
+            "args": [],
+            "problemMatcher": "$gcc",
+            "group": "build",
+            "detail": "编译源码"
+        },
+        {
+            "type": "shell",
+            "label": "clean",
+            "command": "cmake --build build/Debug --target clean",
+            "args": [],
+            "problemMatcher": "$gcc",
+            "group": "build"
+        },
+        {
+            "type": "shell",
+            "label": "rebuild",
+            "command": "cmake --build build/Debug --target clean && cmake --build build/Debug --target all",
+            "args": [],
+            "problemMatcher": "$gcc",
+            "group": "build",
+            "dependsOn": [
+                "clean"
+            ]
+        },
+        {
+            "type": "shell",
+            "label": "flash with cmsis-dap-link",
+            "command": "openocd",
+            "args": [
+                "-f",
+                "interface/cmsis-dap.cfg",
+                "-f",
+                "target/stm32f4x.cfg",
+                "-c",
+                "program build/Debug/Omnitrix.elf verify reset",
+                "-c",
+                "reset run",
+                "-c",
+                "exit"
+            ],
+            "problemMatcher": "$gcc",
+            "group": "build",
+            "dependsOn": [
+                "Build"
+            ]
+        },
+        {
+            "type": "shell",
+            "label": "flash with ST-link",
+            "command": "openocd",
+            "args": [
+                "-f",
+                "interface/stlink.cfg",
+                "-f",
+                "target/stm32f4x.cfg",
+                "-c",
+                "program build/Debug/Omnitrix.elf verify reset",
+                "-c",
+                "reset run",
+                "-c",
+                "exit"
+            ],
+            "problemMatcher": "$gcc",
+            "group": "build",
+            "dependsOn": [
+                "Build"
+            ]
+        },
+        {
+            "type": "shell",
+            "label": "flash with J-link",
+            "command": "openocd",
+            "args": [
+                "-f",
+                "interface/jlink-swd.cfg",
+                "-f",
+                "target/stm32f4x.cfg",
+                "-c",
+                "program build/Debug/Omnitrix.elf verify reset",
+                "-c",
+                "reset run",
+                "-c",
+                "exit"
+            ],
+            "problemMatcher": "$gcc",
+            "group": "build",
+            "dependsOn": [
+                "Build"
+            ]
+        }
+    ]
+}

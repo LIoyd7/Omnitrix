@@ -1,0 +1,38 @@
+{
+    "configurations": [
+        {
+            "name": "Linux-ARM-GCC",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "Core/Inc",
+                "Drivers/STM32F4xx_HAL_Driver/Inc",
+                "Drivers/CMSIS/Device/ST/STM32F4xx/Include",
+                "Drivers/CMSIS/Include",
+                //"Middlewares/Third_Party/FreeRTOS/Source/include",
+                "Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
+                //"Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2",
+                //"Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F",
+                //"User"
+            ],
+            "defines": [
+                "STM32F411xx",
+                "_DEBUG",
+                "UNICODE",
+                "USE_HAL_DRIVER",
+                "__GNUC__"// 解决编辑器中提示无法识别uint32_t, uint16_t, uint8_t的问题
+            ],
+            "compilerPath": "arm-none-eabi-gcc",
+            "compilerArgs": [
+                "-mcpu=cortex-m4",
+                "-mthumb",
+                "-mfpu=fpv4-sp-d16",
+                "-mfloat-abi=hard"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "gcc-x64",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
