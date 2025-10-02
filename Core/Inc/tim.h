@@ -35,7 +35,8 @@ extern "C" {
 extern TIM_HandleTypeDef htim1;
 
 /* USER CODE BEGIN Private defines */
-
+#define PWM_PERIOD 300
+#define PWM_COMPARE 0
 /* USER CODE END Private defines */
 
 void MX_TIM1_Init(void);

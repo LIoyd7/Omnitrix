@@ -59,8 +59,12 @@ void Error_Handler(void);
 /* Private defines -----------------------------------------------------------*/
 #define BLE_EN_Pin GPIO_PIN_0
 #define BLE_EN_GPIO_Port GPIOB
-#define LED1_Pin GPIO_PIN_13
-#define LED1_GPIO_Port GPIOB
+#define LED_B_Pin GPIO_PIN_13
+#define LED_B_GPIO_Port GPIOB
+#define LED_G_Pin GPIO_PIN_14
+#define LED_G_GPIO_Port GPIOB
+#define LED_R_Pin GPIO_PIN_15
+#define LED_R_GPIO_Port GPIOB
 
 /* USER CODE BEGIN Private defines */
 

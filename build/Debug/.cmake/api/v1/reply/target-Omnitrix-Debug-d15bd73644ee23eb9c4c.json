@@ -242,7 +242,13 @@
 				49,
 				50,
 				51,
-				52
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58
 			]
 		},
 		{
@@ -353,7 +359,7 @@
 			"language" : "ASM",
 			"sourceIndexes" : 
 			[
-				53
+				59
 			]
 		}
 	],
@@ -473,14 +479,20 @@
 				49,
 				50,
 				51,
-				52
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58
 			]
 		},
 		{
 			"name" : "",
 			"sourceIndexes" : 
 			[
-				53
+				59
 			]
 		}
 	],
@@ -532,6 +544,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Core/Src/stm32f4xx_hal_msp.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Core/Src/stm32f4xx_hal_timebase_tim.c",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -591,7 +609,37 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
+			"path" : "User/device/CST816.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
 			"path" : "User/device/DataSave.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "User/device/KT6328.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "User/device/lcd.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "User/device/lcd_init.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "User/device/power.c",
 			"sourceGroupIndex" : 0
 		},
 		{

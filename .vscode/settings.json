@@ -73,6 +73,8 @@
         "struct_typedef.h": "c",
         "bl24c02.h": "c",
         "bsp_iic.h": "c",
-        "bsp_delay.h": "c"
+        "bsp_delay.h": "c",
+        "tim.h": "c",
+        "spi.h": "c"
     }, //You can also choose from the following three shells："Command Prompt" or "PowerShell" or "Windows PowerShell" or "Git Bash"
 }

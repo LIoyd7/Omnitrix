@@ -50,13 +50,23 @@ void MX_GPIO_Init(void)
   __HAL_RCC_GPIOB_CLK_ENABLE();
 
   /*Configure GPIO pin Output Level */
-  HAL_GPIO_WritePin(GPIOB, BLE_EN_Pin|LED1_Pin, GPIO_PIN_RESET);
+  HAL_GPIO_WritePin(BLE_EN_GPIO_Port, BLE_EN_Pin, GPIO_PIN_RESET);
 
-  /*Configure GPIO pins : BLE_EN_Pin LED1_Pin */
-  GPIO_InitStruct.Pin = BLE_EN_Pin|LED1_Pin;
+  /*Configure GPIO pin Output Level */
+  HAL_GPIO_WritePin(GPIOB, LED_B_Pin|LED_G_Pin|LED_R_Pin, GPIO_PIN_SET);
+
+  /*Configure GPIO pin : BLE_EN_Pin */
+  GPIO_InitStruct.Pin = BLE_EN_Pin;
   GPIO_InitStruct.Mode = GPIO_MODE_OUTPUT_PP;
   GPIO_InitStruct.Pull = GPIO_NOPULL;
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
+  HAL_GPIO_Init(BLE_EN_GPIO_Port, &GPIO_InitStruct);
+
+  /*Configure GPIO pins : LED_B_Pin LED_G_Pin LED_R_Pin */
+  GPIO_InitStruct.Pin = LED_B_Pin|LED_G_Pin|LED_R_Pin;
+  GPIO_InitStruct.Mode = GPIO_MODE_OUTPUT_PP;
+  GPIO_InitStruct.Pull = GPIO_NOPULL;
+  GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_HIGH;
   HAL_GPIO_Init(GPIOB, &GPIO_InitStruct);
 
 }

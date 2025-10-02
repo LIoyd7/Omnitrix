@@ -20,9 +20,11 @@ void Function_led(void *argument)
         task_struct.stack_water_mark.led = osThreadGetStackSpace(osThreadGetId());
 #endif
 
-        HAL_GPIO_TogglePin(LED1_GPIO_Port, LED1_Pin);
-       // HAL_GPIO_TogglePin(BLE_EN_GPIO_Port, BLE_EN_Pin);
-       a++;
+        // HAL_GPIO_TogglePin(LED1_GPIO_Port, LED1_Pin);
+         HAL_GPIO_TogglePin(LED_G_GPIO_Port, LED_G_Pin);
+        //HAL_GPIO_TogglePin(LED_R_GPIO_Port, LED_R_Pin);
+        // HAL_GPIO_TogglePin(BLE_EN_GPIO_Port, BLE_EN_Pin);
+        a++;
         osDelay(500);
 
         tick += delay_tick; /* 计算下一个唤醒时刻 */
