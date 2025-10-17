@@ -14,10 +14,10 @@ extern "C"
 /* Exported constants ------------------------------------------------------- */
 
 /* 所有任务都要define一个“任务运行频率”和“初始化延时” */
-#define TASK_FREQ_SHOOT (500u)
-#define TASK_FREQ_CAN (500u)
-#define TASK_FREQ_AI (500u)
+
+#define TASK_FREQ_LCD (500u)
 #define TASK_FREQ_LED (500u)
+#define TASK_FREQ_COMM (250u)
 
 #define TASK_INIT_DELAY_INFO (500u)
 #define TASK_INIT_DELAY_MONITOR (10)
@@ -34,6 +34,8 @@ extern "C"
         struct
         {
             osThreadId_t led;
+            osThreadId_t lcd;
+            osThreadId_t comm;
 
         } thread;
 
@@ -54,6 +56,8 @@ extern "C"
         {
 
             UBaseType_t led;
+            UBaseType_t lcd;
+            UBaseType_t comm;
 
         } stack_water_mark; /* stack使用 */
 
@@ -61,12 +65,15 @@ extern "C"
         {
 
             float led;
+            float lcd;
+            float comm;
         } freq; /* 任务运行频率 */
 
         struct
         {
-
             float led;
+            float lcd;
+            float comm;
         } last_up_time; /* 任务最近运行时 */
 #endif
 
@@ -76,11 +83,16 @@ extern "C"
     extern task_t task_struct; /* 任务结构体实例化 */
 
     extern const osThreadAttr_t attr_led;
+    extern const osThreadAttr_t attr_lcd;
+    extern const osThreadAttr_t attr_comm;
     extern const osEventFlagsAttr_t attr_event;
 
     /* Exported functions prototypes -------------------------------------------- */
 
     void Function_led(void *argument);
+    void Function_lcd(void *argument);
+    void Function_comm(void *argument);
+
 
 #ifdef __cplusplus
 }

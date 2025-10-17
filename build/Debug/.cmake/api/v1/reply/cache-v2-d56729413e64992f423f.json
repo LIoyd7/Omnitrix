@@ -163,7 +163,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/tree/Omnitrix/build/Debug"
+			"value" : "/home/tree/watch/O_code/Omnitrix/build/Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -655,7 +655,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/tree/Omnitrix"
+			"value" : "/home/tree/watch/O_code/Omnitrix"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1102,8 +1102,8 @@
 					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "FILEPATH",
-			"value" : "/home/tree/Omnitrix/cmake/gcc-arm-none-eabi.cmake"
+			"type" : "UNINITIALIZED",
+			"value" : "/home/tree/watch/O_code/Omnitrix/cmake/gcc-arm-none-eabi.cmake"
 		},
 		{
 			"name" : "CMAKE_UNAME",
@@ -1143,7 +1143,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/tree/Omnitrix/build/Debug"
+			"value" : "/home/tree/watch/O_code/Omnitrix/build/Debug"
 		},
 		{
 			"name" : "Omnitrix_IS_TOP_LEVEL",
@@ -1167,7 +1167,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/tree/Omnitrix"
+			"value" : "/home/tree/watch/O_code/Omnitrix"
 		}
 	],
 	"kind" : "cache",

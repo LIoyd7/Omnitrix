@@ -1,0 +1,66 @@
+#pragma once
+
+#ifdef __cplusplus
+extern "C"
+{
+#endif
+
+/* Includes ----------------------------------------------------------------- */
+#include <usart.h>
+
+#include "bsp.h"
+
+    /* Exported constants ------------------------------------------------------- */
+    /* Exported macro ----------------------------------------------------------- */
+    /* Exported types ----------------------------------------------------------- */
+
+    /* 要添加使用UART的新设备，需要先在此添加对应的枚举值 */
+
+    /* UART实体枚举，与设备对应 */
+    typedef enum
+    {
+        BSP_UART_TYPEC,
+        BSP_UART_BULETOOTH,
+        /* BSP_UART_XXX, */
+        BSP_UART_NUM,
+        BSP_UART_ERR,
+    } BSP_UART_t;
+
+    /* UART支持的中断回调函数类型，具体参考HAL中定义 */
+    typedef enum
+    {
+        BSP_UART_TX_HALF_CPLT_CB,
+        BSP_UART_TX_CPLT_CB,
+        BSP_UART_RX_HALF_CPLT_CB,
+        BSP_UART_RX_CPLT_CB,
+        BSP_UART_ERROR_CB,
+        BSP_UART_ABORT_CPLT_CB,
+        BSP_UART_ABORT_TX_CPLT_CB,
+        BSP_UART_ABORT_RX_CPLT_CB,
+
+        BSP_UART_IDLE_LINE_CB,
+        BSP_UART_CB_NUM,
+    } BSP_UART_Callback_t;
+
+    typedef enum
+    {
+        DMA_SxM0AR = 0,
+        DMA_SxM1AR = 1,
+    } DMA_Buffer_t;
+
+    typedef enum
+    {
+        DATA_ERROR = 0,
+        DATA_OK = 1,
+    } Error_flag_t;
+
+    /* Exported functions prototypes -------------------------------------------- */
+    UART_HandleTypeDef *BSP_UART_GetHandle(BSP_UART_t uart);
+
+    int8_t BSP_UART_RegisterCallback(BSP_UART_t uart, BSP_UART_Callback_t type,
+                                     void (*callback)(void));
+    // 用户自定义空闲中断回调函数，请放入f4_it.c中
+    void BSP_UART_IdleCallback(UART_HandleTypeDef *huart);
+#ifdef __cplusplus
+}
+#endif

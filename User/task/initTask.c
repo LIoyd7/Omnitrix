@@ -20,6 +20,10 @@ void initFunction(void *argument)
 
     task_struct.thread.led =
         osThreadNew(Function_led, NULL, &attr_led);
+    task_struct.thread.lcd =
+        osThreadNew(Function_lcd, NULL, &attr_lcd);   
+    task_struct.thread.comm =
+        osThreadNew(Function_comm, NULL, &attr_comm);     
     /* 创建消息队列 */
     // task_struct.msgq.msg =
     //     osMessageQueueNew(2u, sizeof(CAN_CapOutput_t), NULL);

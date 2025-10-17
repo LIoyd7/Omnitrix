@@ -75,6 +75,8 @@
         "bsp_iic.h": "c",
         "bsp_delay.h": "c",
         "tim.h": "c",
-        "spi.h": "c"
+        "spi.h": "c",
+        "usertask.h": "c",
+        "lcd_init.h": "c"
     }, //You can also choose from the following three shells："Command Prompt" or "PowerShell" or "Windows PowerShell" or "Git Bash"
 }

@@ -140,43 +140,43 @@
 			[
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/Omnitrix/./Core/Inc"
+					"path" : "/home/tree/watch/O_code/Omnitrix/./Core/Inc"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/Omnitrix/./Drivers/STM32F4xx_HAL_Driver/Inc"
+					"path" : "/home/tree/watch/O_code/Omnitrix/./Drivers/STM32F4xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/Omnitrix/./Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
+					"path" : "/home/tree/watch/O_code/Omnitrix/./Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/Omnitrix/./Drivers/CMSIS/Device/ST/STM32F4xx/Include"
+					"path" : "/home/tree/watch/O_code/Omnitrix/./Drivers/CMSIS/Device/ST/STM32F4xx/Include"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/Omnitrix/./Drivers/CMSIS/Include"
+					"path" : "/home/tree/watch/O_code/Omnitrix/./Drivers/CMSIS/Include"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/include"
+					"path" : "/home/tree/watch/O_code/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/include"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS"
+					"path" : "/home/tree/watch/O_code/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F"
+					"path" : "/home/tree/watch/O_code/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2"
+					"path" : "/home/tree/watch/O_code/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/Omnitrix/./User"
+					"path" : "/home/tree/watch/O_code/Omnitrix/./User"
 				}
 			],
 			"language" : "C",
@@ -248,7 +248,11 @@
 				55,
 				56,
 				57,
-				58
+				58,
+				59,
+				60,
+				61,
+				62
 			]
 		},
 		{
@@ -317,49 +321,49 @@
 			[
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/Omnitrix/./Core/Inc"
+					"path" : "/home/tree/watch/O_code/Omnitrix/./Core/Inc"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/Omnitrix/./Drivers/STM32F4xx_HAL_Driver/Inc"
+					"path" : "/home/tree/watch/O_code/Omnitrix/./Drivers/STM32F4xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/Omnitrix/./Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
+					"path" : "/home/tree/watch/O_code/Omnitrix/./Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/Omnitrix/./Drivers/CMSIS/Device/ST/STM32F4xx/Include"
+					"path" : "/home/tree/watch/O_code/Omnitrix/./Drivers/CMSIS/Device/ST/STM32F4xx/Include"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/Omnitrix/./Drivers/CMSIS/Include"
+					"path" : "/home/tree/watch/O_code/Omnitrix/./Drivers/CMSIS/Include"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/include"
+					"path" : "/home/tree/watch/O_code/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/include"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS"
+					"path" : "/home/tree/watch/O_code/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F"
+					"path" : "/home/tree/watch/O_code/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2"
+					"path" : "/home/tree/watch/O_code/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/Omnitrix/./User"
+					"path" : "/home/tree/watch/O_code/Omnitrix/./User"
 				}
 			],
 			"language" : "ASM",
 			"sourceIndexes" : 
 			[
-				59
+				63
 			]
 		}
 	],
@@ -373,7 +377,7 @@
 				"role" : "flags"
 			},
 			{
-				"fragment" : "-mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -T \"/home/tree/Omnitrix/STM32F411XX_FLASH.ld\" --specs=nano.specs -Wl,-Map=Omnitrix.map -Wl,--gc-sections -Wl,--print-memory-usage",
+				"fragment" : "-mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -T \"/home/tree/watch/O_code/Omnitrix/STM32F411XX_FLASH.ld\" --specs=nano.specs -Wl,-Map=Omnitrix.map -Wl,--gc-sections -Wl,--print-memory-usage",
 				"role" : "flags"
 			},
 			{
@@ -398,7 +402,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-Wl,-gc-sections,--print-memory-usage,-Map=/home/tree/Omnitrix/build/Debug/Omnitrix.map",
+				"fragment" : "-Wl,-gc-sections,--print-memory-usage,-Map=/home/tree/watch/O_code/Omnitrix/build/Debug/Omnitrix.map",
 				"role" : "flags"
 			},
 			{
@@ -485,14 +489,18 @@
 				55,
 				56,
 				57,
-				58
+				58,
+				59,
+				60,
+				61,
+				62
 			]
 		},
 		{
 			"name" : "",
 			"sourceIndexes" : 
 			[
-				59
+				63
 			]
 		}
 	],
@@ -603,6 +611,12 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
+			"path" : "User/bsp/uart_it.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
 			"path" : "User/device/BL24C02.c",
 			"sourceGroupIndex" : 0
 		},
@@ -645,7 +659,25 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
+			"path" : "User/device/watch_comm.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "User/task/commTask.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
 			"path" : "User/task/initTask.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "User/task/lcdTask.c",
 			"sourceGroupIndex" : 0
 		},
 		{

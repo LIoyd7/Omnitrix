@@ -1,4 +1,4 @@
-# Install script for directory: /home/tree/Omnitrix
+# Install script for directory: /home/tree/watch/O_code/Omnitrix
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/tree/Omnitrix/build/Debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/tree/watch/O_code/Omnitrix/build/Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
