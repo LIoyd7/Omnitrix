@@ -3,15 +3,14 @@
 
 #include "bsp/struct_typedef.h"
 
-#define USE_HORIZONTAL 0 // 屏幕显示方向: 0/1为竖屏, 2/3为横屏
+// GC9A01 圆形屏: 固定 240x240
+#define USE_HORIZONTAL 0
 
-#if USE_HORIZONTAL == 0 || USE_HORIZONTAL == 1
 #define LCD_W 240
-#define LCD_H 280
-#else
-#define LCD_W 280
 #define LCD_H 240
-#endif
+
+// TIM1 PWM 背光参数 (Prescaler=99, Period=300)
+#define PWM_PERIOD 300
 
 //----------------- LCD 引脚定义 ----------------
 #define SCLK_PORT GPIOB
@@ -58,10 +57,10 @@ void LCD_WR_DATA(uint16_t dat);                                           // 写
 void LCD_WR_REG(uint8_t dat);                                             // 写寄存器
 void LCD_Address_Set(uint16_t x1, uint16_t y1, uint16_t x2, uint16_t y2); // 设置显示区域
 void LCD_Init(void);                                                      // LCD 初始化
-void LCD_Set_Light(uint8_t dc);                                           // 设置背光亮度
+void LCD_Set_Light(uint8_t dc);                                           // 设置背光亮度 (5%~100%)
 void LCD_Close_Light(void);                                               // 关闭背光
-void LCD_ST7789_SleepIn(void);                                            // 进入休眠
-void LCD_ST7789_SleepOut(void);                                           // 退出休眠
+void LCD_SleepIn(void);                                                   // 进入休眠
+void LCD_SleepOut(void);                                                  // 退出休眠
 void LCD_Open_Light(void);                                                // 打开背光
 
 #endif

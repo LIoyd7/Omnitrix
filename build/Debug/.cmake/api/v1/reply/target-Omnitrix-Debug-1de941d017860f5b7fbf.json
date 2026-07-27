@@ -75,7 +75,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : " -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3"
+					"fragment" : " -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11"
 				},
 				{
 					"backtrace" : 3,
@@ -116,9 +116,6 @@
 				{
 					"backtrace" : 5,
 					"fragment" : "-g"
-				},
-				{
-					"fragment" : "-std=gnu11"
 				}
 			],
 			"defines" : 
@@ -140,43 +137,43 @@
 			[
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/watch/O_code/Omnitrix/./Core/Inc"
+					"path" : "D:/Desktop/watch/Omnitrix/./Core/Inc"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/watch/O_code/Omnitrix/./Drivers/STM32F4xx_HAL_Driver/Inc"
+					"path" : "D:/Desktop/watch/Omnitrix/./Drivers/STM32F4xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/watch/O_code/Omnitrix/./Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
+					"path" : "D:/Desktop/watch/Omnitrix/./Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/watch/O_code/Omnitrix/./Drivers/CMSIS/Device/ST/STM32F4xx/Include"
+					"path" : "D:/Desktop/watch/Omnitrix/./Drivers/CMSIS/Device/ST/STM32F4xx/Include"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/watch/O_code/Omnitrix/./Drivers/CMSIS/Include"
+					"path" : "D:/Desktop/watch/Omnitrix/./Drivers/CMSIS/Include"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/watch/O_code/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/include"
+					"path" : "D:/Desktop/watch/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/include"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/watch/O_code/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS"
+					"path" : "D:/Desktop/watch/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/watch/O_code/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F"
+					"path" : "D:/Desktop/watch/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/watch/O_code/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2"
+					"path" : "D:/Desktop/watch/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/watch/O_code/Omnitrix/./User"
+					"path" : "D:/Desktop/watch/Omnitrix/./User"
 				}
 			],
 			"language" : "C",
@@ -251,8 +248,7 @@
 				58,
 				59,
 				60,
-				61,
-				62
+				61
 			]
 		},
 		{
@@ -321,49 +317,49 @@
 			[
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/watch/O_code/Omnitrix/./Core/Inc"
+					"path" : "D:/Desktop/watch/Omnitrix/./Core/Inc"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/watch/O_code/Omnitrix/./Drivers/STM32F4xx_HAL_Driver/Inc"
+					"path" : "D:/Desktop/watch/Omnitrix/./Drivers/STM32F4xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/watch/O_code/Omnitrix/./Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
+					"path" : "D:/Desktop/watch/Omnitrix/./Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/watch/O_code/Omnitrix/./Drivers/CMSIS/Device/ST/STM32F4xx/Include"
+					"path" : "D:/Desktop/watch/Omnitrix/./Drivers/CMSIS/Device/ST/STM32F4xx/Include"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/watch/O_code/Omnitrix/./Drivers/CMSIS/Include"
+					"path" : "D:/Desktop/watch/Omnitrix/./Drivers/CMSIS/Include"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/watch/O_code/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/include"
+					"path" : "D:/Desktop/watch/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/include"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/watch/O_code/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS"
+					"path" : "D:/Desktop/watch/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/watch/O_code/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F"
+					"path" : "D:/Desktop/watch/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/watch/O_code/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2"
+					"path" : "D:/Desktop/watch/Omnitrix/./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/tree/watch/O_code/Omnitrix/./User"
+					"path" : "D:/Desktop/watch/Omnitrix/./User"
 				}
 			],
 			"language" : "ASM",
 			"sourceIndexes" : 
 			[
-				63
+				62
 			]
 		}
 	],
@@ -377,7 +373,7 @@
 				"role" : "flags"
 			},
 			{
-				"fragment" : "-mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -T \"/home/tree/watch/O_code/Omnitrix/STM32F411XX_FLASH.ld\" --specs=nano.specs -Wl,-Map=Omnitrix.map -Wl,--gc-sections -Wl,--print-memory-usage",
+				"fragment" : "-mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -T \"D:/Desktop/watch/Omnitrix/STM32F411XX_FLASH.ld\" --specs=nano.specs -Wl,-Map=Omnitrix.map -Wl,--gc-sections -Wl,--print-memory-usage",
 				"role" : "flags"
 			},
 			{
@@ -402,7 +398,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-Wl,-gc-sections,--print-memory-usage,-Map=/home/tree/watch/O_code/Omnitrix/build/Debug/Omnitrix.map",
+				"fragment" : "-Wl,-gc-sections,--print-memory-usage,-Map=D:/Desktop/watch/Omnitrix/build/Debug/Omnitrix.map",
 				"role" : "flags"
 			},
 			{
@@ -492,15 +488,14 @@
 				58,
 				59,
 				60,
-				61,
-				62
+				61
 			]
 		},
 		{
 			"name" : "",
 			"sourceIndexes" : 
 			[
-				63
+				62
 			]
 		}
 	],
@@ -816,12 +811,6 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c",
 			"sourceGroupIndex" : 0
 		},
 		{

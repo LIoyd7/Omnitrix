@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.22"
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Omnitrix::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Omnitrix-Debug-98faf8b73b4dace52e99.json",
+					"jsonFile" : "target-Omnitrix-Debug-1de941d017860f5b7fbf.json",
 					"name" : "Omnitrix",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/tree/watch/O_code/Omnitrix/build/Debug",
-		"source" : "/home/tree/watch/O_code/Omnitrix"
+		"build" : "D:/Desktop/watch/Omnitrix/build/Debug",
+		"source" : "D:/Desktop/watch/Omnitrix"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 3
+		"minor" : 8
 	}
 }

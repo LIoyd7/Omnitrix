@@ -21,9 +21,9 @@ void Function_led(void *argument)
 #endif
 
         // HAL_GPIO_TogglePin(LED1_GPIO_Port, LED1_Pin);
-         HAL_GPIO_TogglePin(LED_G_GPIO_Port, LED_G_Pin);
+        //  HAL_GPIO_TogglePin(LED_G_GPIO_Port, LED_G_Pin);
         //HAL_GPIO_TogglePin(LED_R_GPIO_Port, LED_R_Pin);
-        // HAL_GPIO_TogglePin(BLE_EN_GPIO_Port, BLE_EN_Pin);
+         HAL_GPIO_TogglePin(BLE_EN_GPIO_Port, BLE_EN_Pin);
         a++;
         osDelay(500);
 
