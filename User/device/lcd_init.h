@@ -51,16 +51,20 @@
 
 //----------------- LCD 函数声明 ----------------
 void LCD_GPIO_Init(void);                                                 // 初始化 GPIO
-void LCD_Writ_Bus(uint8_t dat);                                           // 模拟 SPI 写数据
+void LCD_Writ_Bus(uint8_t dat);                                           // 硬件 SPI 写 1 字节 (不控制 CS)
 void LCD_WR_DATA8(uint8_t dat);                                           // 写入 8 位数据
 void LCD_WR_DATA(uint16_t dat);                                           // 写入 16 位数据
-void LCD_WR_REG(uint8_t dat);                                             // 写寄存器
-void LCD_Address_Set(uint16_t x1, uint16_t y1, uint16_t x2, uint16_t y2); // 设置显示区域
+void LCD_WR_REG(uint8_t dat);                                             // 写寄存器 (控制 DC, 不控制 CS)
+void LCD_CS_Begin(void);                                                  // 拉低 CS, 开始 SPI 事务
+void LCD_CS_End(void);                                                    // 拉高 CS, 结束 SPI 事务
+void LCD_Address_Set(uint16_t x1, uint16_t y1, uint16_t x2, uint16_t y2); // 设置显示区域 (CS 保持低)
 void LCD_Init(void);                                                      // LCD 初始化
 void LCD_Set_Light(uint8_t dc);                                           // 设置背光亮度 (5%~100%)
 void LCD_Close_Light(void);                                               // 关闭背光
 void LCD_SleepIn(void);                                                   // 进入休眠
 void LCD_SleepOut(void);                                                  // 退出休眠
 void LCD_Open_Light(void);                                                // 打开背光
+void LCD_SPI_Set16Bit(void);                                              // 切换 SPI 到 16 位模式
+void LCD_SPI_Set8Bit(void);                                               // 切换 SPI 到 8 位模式
 
 #endif
